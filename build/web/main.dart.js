@@ -47365,7 +47365,7 @@ X.pP.prototype={
 b2:function(){return new X.DU(C.o)}}
 X.DU.prototype={
 V:function(a,b){var s=null,r=new X.Wp(this),q=t.w,p=b.ac(q).f,o=t.U
-return new M.r6(T.AQ(C.cw,H.a([U.xK("assets/background.png",C.fJ,b.ac(q).f.a.b,p.a.a),new T.mk(new V.bx(100,30,100,30),T.a3V(H.a([T.a16(H.a([U.xK("assets/logo.png",s,40,72),T.a16(H.a([r.$2$index$title(0,"Guides"),T.iI(s,s,50),r.$2$index$title(1,"Pricing"),T.iI(s,s,50),r.$2$index$title(2,"Team"),T.iI(s,s,50),r.$2$index$title(3,"Stories")],o),C.ey),U.xK("assets/btn.png",s,53,163)],o),C.i9),T.iI(s,76,s),U.xK("assets/illustration.png",s,s,550),T.iI(s,84,s),T.a16(H.a([U.xK("assets/icon_scroll.png",s,s,24),T.iI(s,s,13),L.a5K("Scroll to Learn More",B.a4q(C.k,20,s),s,s)],o),C.i8)],o),C.ez),s)],o),C.cn),s)}}
+return new M.r6(T.AQ(C.cw,H.a([U.xK("background.png",C.fJ,b.ac(q).f.a.b,p.a.a),new T.mk(new V.bx(100,30,100,30),T.a3V(H.a([T.a16(H.a([U.xK("logo.png",s,40,72),T.a16(H.a([r.$2$index$title(0,"Guides"),T.iI(s,s,50),r.$2$index$title(1,"Pricing"),T.iI(s,s,50),r.$2$index$title(2,"Team"),T.iI(s,s,50),r.$2$index$title(3,"Stories")],o),C.ey),U.xK("btn.png",s,53,163)],o),C.i9),T.iI(s,76,s),U.xK("illustration.png",s,s,550),T.iI(s,84,s),T.a16(H.a([U.xK("icon_scroll.png",s,s,24),T.iI(s,s,13),L.a5K("Scroll to Learn More",B.a4q(C.k,20,s),s,s)],o),C.i8)],o),C.ez),s)],o),C.cn),s)}}
 X.Wp.prototype={
 $2$index$title:function(a,b){var s,r=null,q=this.a,p=a===q.d?C.U:C.bX
 p=L.a5K(b,B.a4q(new P.G(4280098364),18,p),r,r)
